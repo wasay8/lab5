@@ -1,0 +1,153 @@
+API #,Well Name,Operator,Status,Production_Info,Well_Type,Closest_City,State_code,County_code,Well_no,County,State,Well_file_no,stimulation_date,stimulated_formation,top_ft,bottom_ft,stages,volume,volumne_units,treatment_type,acid,lbs_prop,max_psi,bbls_min
+33-053-04856,Columbus Federal 3-16H ,"CONTINENTAL RESOURCES, INC.",Active,"1.5 k Barrels of Oil Produced in Jul 2023
+1 k MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,053,04856,McKenzie,ND,25160,N/A,N/A,7082.0,N/A,N/A,23122.0,N/A,N/A,N/A,N/A,N/A,N/A
+33-105-02719,N/A,N/A,N/A,N/A,N/A,N/A,33,105,02719,N/A,N/A,23359,N/A,type treatment ,7125.0,N/A,N/A,10924.0,N/A,N/A,N/A,N/A,28.0,N/A
+33-053-08946,Lewis Federal 530011-31 4BR ,N/A,N/A,N/A,N/A,N/A,33,053,08946,N/A,N/A,36047,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-105-02728,Atlanta Federal 6-6H ,N/A,N/A,N/A,N/A,N/A,33,105,02728,N/A,N/A,23368,N/A,3651745,7130.0,N/A,N/A,31.0,N/A,N/A,N/A,N/A,N/A,7993.0
+33-105-02723,Atlanta Federal 10-6H ,"CONTINENTAL RESOURCES, INC.",Active,"806 Barrels of Oil Produced in Jul 2023
+1 k MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,105,02723,Williams,ND,23363,N/A,24.0,7133.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-03943,Magnum 1-36-25H ,"SLAWSON EXPLORATION COMPANY, INC.",Active,"1.1 k Barrels of Oil Produced in Jul 2023
+1.9 k MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,053,03943,McKenzie,ND,22247,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-105-02731,Atlanta 2-6H ,"CONTINENTAL RESOURCES, INC.",Active,"209 Barrels of Oil Produced in Jul 2023
+422 MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,105,02731,Williams,ND,23371,N/A,details,7130.0,N/A,N/A,10888.0,N/A,N/A,N/A,N/A,2980006.0,8500.0
+33-053-06057,Kline Federal 5300 31-18 6B ,OASIS PETROLEUM NORTH AMERICA LLC,Active,"327 Barrels of Oil Produced in Jul 2023
+1.5 k MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,053,06057,McKenzie,ND,28756,N/A,N/A,8323.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-105-02724,Atlanta Federal 9-6H ,"CONTINENTAL RESOURCES, INC.",Active,"217 Barrels of Oil Produced in Jul 2023
+378 MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,105,02724,Williams,ND,23364,N/A,10854 ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,31.0
+33-053-03911,N/A,N/A,N/A,N/A,N/A,N/A,33,053,03911,N/A,N/A,20864,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-06549,Lewis Federal 5300 11-31 28 ,N/A,N/A,N/A,N/A,N/A,33,053,06549,N/A,N/A,30189,N/A,maximum treatment pressure (psl),N/A,N/A,N/A,6010700.0,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-05924,Chalmers 5301 44-24 2TR ,OASIS PETROLEUM NORTH AMERICA LLC,Active,"439 Barrels of Oil Produced in Jul 2023
+7.4 k MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,053,05924,McKenzie,ND,28342,N/A,N/A,8265.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-05954,Wade Federal 5300 41-30 6B ,OASIS PETROLEUM NORTH AMERICA LLC,Active,"440 Barrels of Oil Produced in Jul 2023
+2.5 k MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,053,05954,McKenzie,ND,28425,N/A,N/A,8347.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-06011,Chalmers 5301 44-24 4T2R ,OASIS PETROLEUM NORTH AMERICA LLC,Inactive,N/A,Oil & Gas,Williston,33,053,06011,McKenzie,ND,28600,N/A,N/A,8266.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-06030,Kline Federal 5300 41-18 12TX ,OASIS PETROLEUM NORTH AMERICA LLC,Abandoned,N/A,Oil & Gas,Williston,33,053,06030,McKenzie,ND,28658,N/A,N/A,8384.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-05849,Lewis Federal 5300 21-31 58 ,N/A,N/A,N/A,N/A,N/A,33,053,05849,N/A,N/A,28194,N/A,印,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-06231,Gramma Federal 5300 41-3112B ,N/A,N/A,N/A,N/A,N/A,33,053,06231,N/A,N/A,29316,N/A,N/A,8462.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-03911,Jefferies 5301 43-12B ,N/A,N/A,N/A,N/A,N/A,33,053,03911,N/A,N/A,22220,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-06029,D Deepened Well ,N/A,N/A,N/A,N/A,N/A,33,053,06029,N/A,N/A,28655,N/A,N/A,8322.0,N/A,214895.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-06018,Spacing Unit Description ,N/A,N/A,N/A,N/A,N/A,33,053,06018,N/A,N/A,28633,N/A,N/A,8390.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-06223,Kline Federal 5300 11-18 5B ,OASIS PETROLEUM NORTH AMERICA LLC,Active,"326 Barrels of Oil Produced in Jul 2023
+2.4 k MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,053,06223,McKenzie,ND,29242,N/A,N/A,8351.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-06023,CHALMERS 5300 21-19 98 ,N/A,N/A,N/A,N/A,N/A,33,053,06023,N/A,N/A,28648,N/A,N/A,8930.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-06021,Chalmers 5300 21-19 ST ,N/A,N/A,N/A,N/A,N/A,33,053,06021,N/A,N/A,28636,N/A,N/A,8386.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-04852,Cc lumbus Federal 1-16H ,N/A,N/A,N/A,N/A,N/A,33,053,04852,N/A,N/A,25156,N/A,N/A,7364.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-105-02722,Atlanta 11-6H ,"CONTINENTAL RESOURCES, INC.",Active,"356 Barrels of Oil Produced in Jul 2023
+568 MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,105,02722,Williams,ND,23362,N/A,lbs proppant ,7123.0,N/A,N/A,3069436.0,N/A,N/A,deta is ,N/A,N/A,N/A
+33-053-05845,Lewis Federal 5300 21-31 68 ,N/A,N/A,N/A,N/A,N/A,33,053,05845,N/A,N/A,28190,N/A,type treatment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-06056,KLINE FEDERAL 5300 31-18 7T ,OASIS PETROLEUM NORTH AMERICA LLC,Active,"357 Barrels of Oil Produced in Jul 2023
+3.6 k MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,053,06056,McKenzie,ND,28755,N/A,N/A,8325.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-03944,MAGNUM 2-36-25H ,"SLAWSON EXPLORATION COMPANY, INC.",Active,"518 Barrels of Oil Produced in Jul 2023
+627 MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,053,03944,McKenzie,ND,22249,N/A,maximum treatment rate (bbls/min) ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,8403.0,N/A
+33-053-04981,Colville 5301 44-12T ,OASIS PETROLEUM NORTH AMERICA LLC,Active,"730 Barrels of Oil Produced in Jul 2023
+2.3 k MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,053,04981,McKenzie,ND,25571,N/A,N/A,8356.0,8356.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-105-02725,Atlanta Federal 8-6H ,"CONTINENTAL RESOURCES, INC.",Active,"495 Barrels of Oil Produced in Jul 2023
+707 MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,105,02725,Williams,ND,23365,N/A,santi frac,7200.0,N/A,N/A,10865.0,N/A,N/A,N/A,N/A,3764730.0,N/A
+33-053-05924,(see details ,N/A,N/A,N/A,N/A,N/A,33,053,05924,N/A,N/A,20407,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-06025,KLINE FEDERAL 5300 41-18 9T ,OASIS PETROLEUM NORTH AMERICA LLC,Active,"677 Barrels of Oil Produced in Jul 2023
+8.1 k MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,053,06025,McKenzie,ND,28651,N/A,N/A,8380.0,N/A,50.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-90244,BUCK SHOT SWD 5300 31-31 ,FALCON MIDSTREAM SERVICES LLC,Active,N/A,Salt Water Disposal,Williston,33,053,90244,McKenzie,ND,90244,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-06225,Kline Federal 5300 11-18 3T ,OASIS PETROLEUM NORTH AMERICA LLC,Active,"415 Barrels of Oil Produced in Jul 2023
+297 MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,053,06225,McKenzie,ND,29244,N/A,N/A,8362.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-06028,Spacing Unit Description ,N/A,N/A,N/A,N/A,N/A,33,053,06028,N/A,N/A,28654,N/A,N/A,8382.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-05943,Wade Federal 5300 41-30 4T ,OASIS PETROLEUM NORTH AMERICA LLC,Active,"41 Barrels of Oil Produced in Jul 2023
+400 MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,053,05943,McKenzie,ND,28394,N/A,N/A,8348.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-06755,KLINE FEDERAL 5300 31-18 15T ,OASIS PETROLEUM NORTH AMERICA LLC,Inactive,N/A,Oil & Gas,Williston,33,053,06755,McKenzie,ND,30789,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-04854,Tallahassee 2-16H ,"CONTINENTAL RESOURCES, INC.",Active,"491 Barrels of Oil Produced in Jul 2023
+814 MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,053,04854,McKenzie,ND,25158,N/A,N/A,7090.0,N/A,N/A,N/A,N/A,N/A,N/A,7518.0,N/A,N/A
+33-053-06232,Qtr-Qtr ,N/A,N/A,N/A,N/A,N/A,33,053,06232,N/A,N/A,29317,N/A,N/A,8459.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-105-02726,Atlanta Federal 7-6H ,"CONTINENTAL RESOURCES, INC.",Active,"1.3 k Barrels of Oil Produced in Jul 2023
+1.5 k MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,105,02726,Williams,ND,23366,N/A,maximum treatment rate (bbls/min),7186.0,N/A,N/A,40.0,N/A,N/A,N/A,N/A,N/A,4810703.0
+33-053-04211,Ash Federal 5300 11-18T ,OASIS PETROLEUM NORTH AMERICA LLC,Active,"264 Barrels of Oil Produced in Jul 2023
+170 MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,053,04211,McKenzie,ND,23230,N/A,N/A,8491.0,N/A,92216.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-00605,Kline Federal 5300 31-18 8B ,N/A,N/A,N/A,N/A,N/A,33,053,00605,N/A,N/A,28754,N/A,N/A,N/A,N/A,N/A,N/A,N/A,sand frac,N/A,N/A,N/A,N/A
+33-053-06019,Chalmers 5300 21-19 6B ,OASIS PETROLEUM NORTH AMERICA LLC,Active,"553 Barrels of Oil Produced in Jul 2023
+3.2 k MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,053,06019,McKenzie,ND,28634,N/A,N/A,8389.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+00-000-20924,DAHL FEDERAL 2-15H ,N/A,N/A,N/A,N/A,N/A,00,000,20924,N/A,N/A,21796,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-105-02720,Atlanta 13-6H ,"CONTINENTAL RESOURCES, INC.",Active,"258 Barrels of Oil Produced in Jul 2023
+471 MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,105,02720,Williams,ND,23360,N/A,da!e' stimulated ,7125.0,N/A,N/A,N/A,N/A,N/A,N/A,7468.0,N/A,26.0
+33-053-06243,Kline Federal 5300 11-18 2B ,OASIS PETROLEUM NORTH AMERICA LLC,Active,"391 Barrels of Oil Produced in Jul 2023
+1.7 k MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,053,06243,McKenzie,ND,29334,N/A,N/A,8508.0,8507.0,N/A,N/A,N/A,sand frac,N/A,N/A,N/A,N/A
+33-053-03911,Spacing Unit Description ,N/A,N/A,N/A,N/A,N/A,33,053,03911,N/A,N/A,22099,2013-08-31 00:00:00,N/A,8366.0,N/A,36.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-05998,Wade Federal 5300 41-30 7T ,OASIS PETROLEUM NORTH AMERICA LLC,Active,"448 Barrels of Oil Produced in Jul 2023
+2.2 k MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,053,05998,McKenzie,ND,28557,N/A,N/A,8347.0,8347.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-03413,Wade Federal 5300 21-30H ,OASIS PETROLEUM NORTH AMERICA LLC,Inactive,N/A,Oil & Gas,Williston,33,053,03413,McKenzie,ND,20197,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+00-012-08152,N/A,N/A,N/A,N/A,N/A,N/A,00,012,08152,N/A,N/A,20863,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-06129,Wade Federal 5300 21-30 12T ,OASIS PETROLEUM NORTH AMERICA LLC,Active,"963 Barrels of Oil Produced in Jul 2023
+4.7 k MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,053,06129,McKenzie,ND,28976,2015-03-16 00:00:00,maximum treatment pressure (psi) i ,8308.0,N/A,50.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-06024,Chalmers 5300 21-19 11 B ,OASIS PETROLEUM NORTH AMERICA LLC,Active,"109 Barrels of Oil Produced in Jul 2023
+2.9 k MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,053,06024,McKenzie,ND,28649,N/A,N/A,8386.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-03911,Larrv 5301 44-128 ,N/A,N/A,N/A,N/A,N/A,33,053,03911,N/A,N/A,22740,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-04069,N/A,N/A,N/A,N/A,N/A,N/A,33,053,04069,N/A,N/A,22731,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-06026,Kline Federal 5300 41-18 10B ,OASIS PETROLEUM NORTH AMERICA LLC,Active,"338 Barrels of Oil Produced in Jul 2023
+1 k MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,053,06026,McKenzie,ND,28652,N/A,N/A,8376.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-06051,D Deepened Well ,N/A,N/A,N/A,N/A,N/A,33,053,06051,N/A,N/A,28744,N/A,N/A,8344.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-06131,WADE FEDERAL 5300 21-30 13B ,OASIS PETROLEUM NORTH AMERICA LLC,Active,"925 Barrels of Oil Produced in Jul 2023
+2.8 k MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,053,06131,McKenzie,ND,28978,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-90329,Carson SWD 5301 12-24 ,FALCON MIDSTREAM SERVICES LLC,Active,N/A,Salt Water Disposal,Williston,33,053,90329,McKenzie,ND,90329,N/A,N/A,5041.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-105-02732,Atlanta 1-6H ,"CONTINENTAL RESOURCES, INC.",Active,"579 Barrels of Oil Produced in Jul 2023
+789 MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,105,02732,Williams,ND,23372,N/A,N/A,N/A,4534.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-04855,Cc1lumbus Federal 2-16H ,N/A,N/A,N/A,N/A,N/A,33,053,04855,N/A,N/A,25159,2014-02-27 00:00:00,N/A,7136.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-105-02727,Atlanta Federal 6-6H ,"CONTINENTAL RESOURCES, INC.",Active,"277 Barrels of Oil Produced in Jul 2023
+491 MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,105,02727,Williams,ND,23367,N/A,3841831 ,7130.0,N/A,N/A,24.0,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-05995,Wade Federal 5300 31-30 2B ,OASIS PETROLEUM NORTH AMERICA LLC,Active,"730 Barrels of Oil Produced in Jul 2023
+2.2 k MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,053,05995,McKenzie,ND,28554,N/A,N/A,8351.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-06548,Lewis Federal 5300 11-31 38 ,N/A,N/A,N/A,N/A,N/A,33,053,06548,N/A,N/A,30188,N/A,voume,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+00-000-13610,Corps of En ineers 31-10 ,N/A,N/A,N/A,N/A,N/A,00,000,13610,N/A,N/A,11920,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+00-000-13610,Lewis & Clark 2-4H ,N/A,N/A,N/A,N/A,N/A,00,000,13610,N/A,N/A,15358,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+00-000-20798,DAHL 15-11H ,N/A,N/A,N/A,N/A,N/A,00,000,20798,N/A,N/A,21266,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-06012,N/A,N/A,N/A,N/A,N/A,N/A,33,053,06012,N/A,N/A,28601,N/A,N/A,8268.0,8429.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-105-02729,Atlanta 4-6H ,"CONTINENTAL RESOURCES, INC.",Active,"312 Barrels of Oil Produced in Jul 2023
+526 MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,105,02729,Williams,ND,23369,N/A,maximum treatment pressure (psi),7178.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-03911,lnnoko 5301 41-12T ,N/A,N/A,N/A,N/A,N/A,33,053,03911,N/A,N/A,22221,2013-09-07 00:00:00,",,",8391.0,N/A,36.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-05906,Wade Federal 5300 31-30 11T ,OASIS PETROLEUM NORTH AMERICA LLC,Active,"462 Barrels of Oil Produced in Jul 2023
+2.6 k MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,053,05906,McKenzie,ND,28303,N/A,N/A,8326.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-04853,Tallahassee 3-16H ,"CONTINENTAL RESOURCES, INC.",Active,"474 Barrels of Oil Produced in Jul 2023
+698 MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,053,04853,McKenzie,ND,25157,N/A,N/A,N/A,6682.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-105-02721,Atlanta 12-6H ,"CONTINENTAL RESOURCES, INC.",Active,"153 Barrels of Oil Produced in Jul 2023
+353 MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,105,02721,Williams,ND,23361,N/A,3098438,7124.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-06022,Chalmers 5300 21-19 10T ,OASIS PETROLEUM NORTH AMERICA LLC,Active,"351 Barrels of Oil Produced in Jul 2023
+2.9 k MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,053,06022,McKenzie,ND,28637,N/A,N/A,8386.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-105-02730,Atlanta 3-6H ,"CONTINENTAL RESOURCES, INC.",Active,"477 Barrels of Oil Produced in Jul 2023
+688 MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,105,02730,Williams,ND,23370,2013-03-20 00:00:00,N/A,7184.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+33-053-06010,Chalmers 5301 44-24 3BR ,OASIS PETROLEUM NORTH AMERICA LLC,Active,"286 Barrels of Oil Produced in Jul 2023
+3 k MCF of Gas Produced in Jul 2023
+",Oil & Gas,Williston,33,053,06010,McKenzie,ND,28599,N/A,N/A,8268.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+00-000-13610,Basic Game & Fish 34-3 ,N/A,N/A,N/A,N/A,N/A,00,000,13610,N/A,N/A,11745,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
